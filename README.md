@@ -1,1 +1,1 @@
-echo "# esp32-idf-gpio-ex1" >> README.md
+# esp32-idf-gpio-ex1
